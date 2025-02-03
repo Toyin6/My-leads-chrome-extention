@@ -25,3 +25,17 @@ input {
     padding-right: 20px;
     font-weight: bold;
 }
+
+ul {
+   list-style: none;
+   padding-left: 10px;
+}
+
+li {
+    margin-top: 5px;
+}
+
+a {
+   color: green;
+   text-decoration: none;
+}
